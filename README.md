@@ -1,4 +1,3 @@
----
 # DepositAI – Predicting Term Deposit Subscription
 
 DepositAI is a machine learning project that predicts whether a customer of a Portuguese bank will subscribe to a **term deposit** (variable: `y`) based on demographic, financial, and marketing interaction data. The goal is to support targeted marketing decisions and improve campaign efficiency.
