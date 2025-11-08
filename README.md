@@ -133,5 +133,3 @@ Contributions are welcome! Please feel free to submit issues or pull requests.
 ## Support
 
 If you like this project, consider giving it a **star** ⭐ on GitHub — it helps a lot!
-
-```
