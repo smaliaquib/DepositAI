@@ -3,7 +3,7 @@
 DepositAI is a machine learning project that predicts whether a customer of a Portuguese bank will subscribe to a **term deposit** (variable: `y`) based on demographic, financial, and marketing interaction data. The goal is to support targeted marketing decisions and improve campaign efficiency.
 
 This project uses the **Bank Marketing Dataset** from direct marketing campaigns conducted via phone calls. The dataset includes customer attributes, previous contact history, campaign metadata, and socio-economic indicators.
-
+![Architecture Overview](./images/intro.png)
 ---
 
 ## Project Objective
